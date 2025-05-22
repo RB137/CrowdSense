@@ -5,6 +5,28 @@
 ### 🚀 Overview
 CrowdSense is a multi-modal AI system designed for real-time crowd monitoring, chaos prediction, security enhancement, and optimized movement flow. It leverages AI-powered analytics to ensure safer gatherings, smarter cities, and improved security measures.
 
+
+
+https://github.com/user-attachments/assets/712e3d6e-6f27-4ca3-acee-8b74c0021f5b
+
+
+
+
+
+
+https://github.com/user-attachments/assets/47d8084d-b535-4a95-9898-2557b5493dfb
+
+
+
+
+https://github.com/user-attachments/assets/b27dad84-f959-4d53-bb48-045e5aed1316
+
+
+
+
+
+
+
 ### 🏆 Key Features
 1. **Real-time AI crowd density monitoring** via CCTV and image analysis.
 2. **Chaos detection & prevention** to mitigate stampedes and congestion.
